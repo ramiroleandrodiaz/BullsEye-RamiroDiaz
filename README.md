@@ -1,4 +1,4 @@
-Complete First Lesson (Functioning App) of Ray Wanderlich's Course.
+Complete First Lesson (Functioning App) of Ray Wenderlich's Course.
 
 The app is finished & ready for deplyment.
 
